@@ -8,3 +8,5 @@ T RandomFunction(T & newVariable) {
     varVector.push_back(newVariable);
     return varVector;
 }
+
+// very nice
